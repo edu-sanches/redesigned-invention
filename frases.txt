@@ -1,3 +1,0 @@
-Testando comandos git question aprendi no curso da rocketseat
-
-Incluindo linha para teste
